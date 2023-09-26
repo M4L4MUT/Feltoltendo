@@ -1,0 +1,7 @@
+C:\Users\losonczi.jozsef\source\repos\PROGRAMOK\Testek\obj\Debug\Testek.csproj.AssemblyReference.cache
+C:\Users\losonczi.jozsef\source\repos\PROGRAMOK\Testek\obj\Debug\Testek.csproj.CoreCompileInputs.cache
+C:\Users\losonczi.jozsef\source\repos\PROGRAMOK\Testek\bin\Debug\Testek.exe.config
+C:\Users\losonczi.jozsef\source\repos\PROGRAMOK\Testek\bin\Debug\Testek.exe
+C:\Users\losonczi.jozsef\source\repos\PROGRAMOK\Testek\bin\Debug\Testek.pdb
+C:\Users\losonczi.jozsef\source\repos\PROGRAMOK\Testek\obj\Debug\Testek.exe
+C:\Users\losonczi.jozsef\source\repos\PROGRAMOK\Testek\obj\Debug\Testek.pdb
